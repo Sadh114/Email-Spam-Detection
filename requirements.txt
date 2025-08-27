@@ -8,3 +8,5 @@ tensorflow==2.20.0
 scikit-learn==1.7.1
 keras==3.11.3
 flask==3.0.0
+gunicorn
+
